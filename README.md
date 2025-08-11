@@ -14,12 +14,12 @@
   <\ʰᵗᵐˡ></h3>
 </div>
 
-
-###<h2>🚀 I code with</h2>
+###
+<h2>🚀 I code with</h2>
 
 <br>
 
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
