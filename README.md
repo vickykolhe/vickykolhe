@@ -2,18 +2,22 @@
   <img height="130" src="https://media.giphy.com/media/lf8FmjwduVe2V1ToP7/giphy.gif?cid=ecf05e47esz42l8h0h0rv5n522pyvllgy03t8lhisxzgrxpb&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </div>
 
-<div align="center">
-  <h3><!ᴰᴼᶜᵀʸᴾᴱ ʰᵗᵐˡ><br>
-  <ʰᵗᵐˡ><br>
-  <ʰᵉᵃᵈ><br>
-    <ᵗⁱᵗˡᵉ>👨‍💻 About Me<\ᵗⁱᵗˡᵉ><br>
-  <\ʰᵉᵃᵈ><br>
-  <ᵇᵒᵈʸ><br>
-    <ʰ¹> <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a> <\ʰ¹><br>
-  <\ᵇᵒᵈʸ><br>
-  <\ʰᵗᵐˡ></h3>
+<div align="center" style="font-family: 'Courier New', monospace; background: linear-gradient(135deg, #ff00cc, #3333ff); padding: 20px; border-radius: 12px; color: white;">
+  <h1 style="font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+    👨‍💻 <span style="color: #FFD700;">About Me</span> 👨‍💻
+  </h1>
+  
+  <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🔥%20Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" 
+         alt="Portfolio" 
+         style="transform: scale(1.2); transition: transform 0.3s ease-in-out;"
+         onmouseover="this.style.transform='scale(1.4) rotate(5deg)';"
+         onmouseout="this.style.transform='scale(1.2)';"/>
+  </a>
+  
+  <p style="margin-top: 15px; font-size: 1.2em;">
+    💡 <em>Coding chaos since <strong>20XX</strong> — fueled by coffee & imagination</em> ☕
+  </p>
 </div>
 
 ###
