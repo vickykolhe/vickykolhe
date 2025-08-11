@@ -22,7 +22,7 @@
 ###
 <h2>🚀 I code with</h2>
 
-<br>
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%"/>
 
 ### 🎨 Frontend Development
 <div align="left">
@@ -79,9 +79,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 </div>
 
----
 
-<br>
+
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%"/>
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif?cid=ecf05e47ezovu2n6xxn0iftsxlaesvck8ycrauuexzbypii5&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
