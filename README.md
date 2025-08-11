@@ -9,7 +9,9 @@
     <ᵗⁱᵗˡᵉ>👨‍💻 About Me<\ᵗⁱᵗˡᵉ><br>
   <\ʰᵉᵃᵈ><br>
   <ᵇᵒᵈʸ><br>
-    <ʰ¹> No Commit <\ʰ¹><br>
+    <ʰ¹> <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  </a> <\ʰ¹><br>
   <\ᵇᵒᵈʸ><br>
   <\ʰᵗᵐˡ></h3>
 </div>
