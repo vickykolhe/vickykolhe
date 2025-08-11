@@ -14,7 +14,7 @@
          onmouseover="this.src='https://img.shields.io/badge/Let%27s_Collaborate!-FF5722?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000'" 
          onmouseout="this.src='https://img.shields.io/badge/Check_My_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000'" />
   </a> 
-       <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%"/><\ʰ¹><br>
+       <\ʰ¹><br>
   <\ᵇᵒᵈʸ><br>
   <\ʰᵗᵐˡ></h3>
 </div>
