@@ -18,7 +18,7 @@
 ###
 
 
-<h2 align="center">🚀 I code with</h2>
+<h2>🚀 I code with</h2>
 
 <br>
 
