@@ -10,9 +10,7 @@
   <\ʰᵉᵃᵈ><br>
   <ᵇᵒᵈʸ><br>
     <ʰ¹> <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Check_My_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000" alt="Portfolio" 
-         onmouseover="this.src='https://img.shields.io/badge/Let%27s_Collaborate!-FF5722?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000'" 
-         onmouseout="this.src='https://img.shields.io/badge/Check_My_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000'" />
+   PortFolio
   </a> 
        <\ʰ¹><br>
   <\ᵇᵒᵈʸ><br>
@@ -22,7 +20,7 @@
 ###
 <h2>🚀 I code with</h2>
 
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%"/>
+<br>
 
 ### 🎨 Frontend Development
 <div align="left">
@@ -81,7 +79,8 @@
 
 
 
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%"/>
+---
+<br>
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif?cid=ecf05e47ezovu2n6xxn0iftsxlaesvck8ycrauuexzbypii5&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
